@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shrey.sharma31102@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1clbsoEgKfaiJuG2Sf1EyajYWINqBidHY/view?usp=sharing](https://drive.google.com/file/d/1clbsoEgKfaiJuG2Sf1EyajYWINqBidHY/view?usp=sharing)
+- 📄 Know about me https://bit.ly/3JtYinl
 
 - ⚡ Fun fact **😎**
 
