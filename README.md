@@ -1,6 +1,6 @@
 ![Logo](https://github.com/shreyansh-sharma-cs/shreyansh-sharma-cs/blob/main/1649935575065.jpeg)
 <h1 align="center">Hi 👋, I'm Shreyansh Sharma</h1>
-<h3 align="center">A passionate from India Cyber Security, Cloud Computing Enthusiast, brushing my skills in Web Development and Competitive Coding</h3>
+<h3 align="center">A passionate from India 🇮🇳 | Cyber Security, Cloud Computing Enthusiast, brushing my skills in Web Development and Competitive Coding</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400px">
 
