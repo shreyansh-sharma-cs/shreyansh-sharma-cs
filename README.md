@@ -1,20 +1,14 @@
 ![Logo](https://github.com/shreyansh-sharma-cs/shreyansh-sharma-cs/blob/main/1649935575065.jpeg)
 <h1 align="center">Hi 👋, I'm Shreyansh Sharma</h1>
-<h3 align="center">A passionate from India 🇮🇳 | Cyber Security, Cloud Computing Enthusiast, brushing my skills in Web Development and Competitive Coding</h3>
+<h3 align="center">🇮🇳 Aspiring Data Engineer & Frontend Developer | Databricks • Spark • Azure | Cyber Security & Cloud Computing Enthusiast | Passionate about solving real-world problems through technology/h3>
 
 <img align="right" src="For github.gif" alt="Coding" width="350px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh-sharma-cs&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh-sharma-cs" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website**
-
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **shrey.sharma31102@gmail.com**
+- 🌱 Always learning something new.
 
 - 📄 Know about me https://bit.ly/3JtYinl
-
-- ⚡ Fun fact **😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
